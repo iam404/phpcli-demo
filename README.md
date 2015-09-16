@@ -1,4 +1,4 @@
-# phpcli-demo
+#phpcli-demo
 This is a demo app using php as CLI .
 
 To install packages
@@ -12,7 +12,3 @@ commands:
 `./bin/tests hello`
 
 `./bin/tests hello --boy`
-
-
-
-
